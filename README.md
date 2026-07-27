@@ -1,5 +1,11 @@
 # 💫 About Me:
-I Am Gouda Akhil a<br>Software Engineer | Python Backend & AI Developer<br>Backend & Core Languages: Python, Java, JavaScript, SQL<br>Web & Backend Technologies: Django REST Framework, Flask, FastAPI, Node.js,  REST APIs<br>Databases & Cloud: MySQL, MongoDB, PostgreSQL,  AWS
+I am <b>Gouda Akhil</b><br>
+Software Engineer | Python Backend & AI Developer<br><br>
+
+💻 <b>Backend & Core Languages:</b> Python, Java, JavaScript, SQL<br>
+⚙️ <b>Backend Technologies:</b> Django REST Framework, FastAPI, Flask, Node.js, REST APIs<br>
+🗄️ <b>Databases:</b> PostgreSQL, MySQL, MongoDB<br>
+☁️ <b>Cloud & Tools:</b> AWS, Git, Docker, Postman
 
 
 ## 🌐 Socials:
